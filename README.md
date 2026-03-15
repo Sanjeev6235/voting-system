@@ -33,7 +33,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) Online Voting System wi
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/yourusername/voting-system.git
+git clone https://github.com/Sanjeev6235/voting-system.git
 cd voting-system
 ```
 
