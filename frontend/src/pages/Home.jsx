@@ -140,7 +140,8 @@ export default function Home() {
             <Vote className="w-4 h-4 text-primary-600" />
             <span className="font-display font-bold text-slate-600 dark:text-slate-300">VoteSecure</span>
           </div>
-          <p>© 2025 VoteSecure. Built with the MERN Stack. Final Year College Project.</p>
+          <p><p>© 2026 VoteSecure. A Full Stack Web Application built using MERN.</p>
+</p>
         </div>
       </footer>
     </div>
